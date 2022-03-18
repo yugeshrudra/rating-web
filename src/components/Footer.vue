@@ -7,7 +7,7 @@
     </div>
     <div class="row at-row flex-center flex-middle">
       <div class="col-lg-24">
-        <img src="/static/img/msft_logo.png">
+        <img src="/static/img/aws_logo.png">
         <img src="/static/img/rh_logo.png">
 
       </div>
@@ -16,7 +16,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Red Hat OpenShift workshop
+        Red Hat OpenShift on AWS Workshop
       </div>
       <div class="col-lg-6">
       </div>
